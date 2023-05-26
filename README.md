@@ -11,7 +11,7 @@ I'm now the undergraduate student of Sungkyunkwan University.
 I work on high levels of code quality and continuous refactoring
 
 ## Skills
-
+C, C++, Python, JAVA
 
 ## Education
 * University: **SKKU**(Sungkyunkwan University), South Korea  
