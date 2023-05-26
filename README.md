@@ -1,7 +1,7 @@
 🙂 Hi, my name is Jonghan Lee 🙂 
 
 😊 This is my GitHub personal page 😊
-***
+
 
 ## About me
 Hello, I'm Jonghan Lee, a passionate and driven individual with a keen interest in software engineering.
