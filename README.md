@@ -20,7 +20,7 @@ I work on high levels of code quality and continuous refactoring
 
 
 ## Achivements and Certifications
-
+While I may not have any specific achievements or certifications to highlight at the moment, I am actively seeking opportunities to expand my skill set and gain practical experience.
 
 ## Contact
 
