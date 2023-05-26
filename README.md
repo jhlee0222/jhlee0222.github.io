@@ -8,7 +8,7 @@ Hello, I'm Jonghan Lee, a passionate and driven individual with a keen interest 
 
 I'm now the undergraduate student of Sungkyunkwan University.
 
-I work on high levels of code quality and continuous refactoring
+I work on high levels of code quality and continuous refactoring\
 
 
 ## Skills
