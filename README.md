@@ -12,8 +12,9 @@ I work on high levels of code quality and continuous refactoring
 
 
 ## Skills
-C, C++, Python, JAVA  
-
+* Skills: Algorithm
+* Language: C, C++, Python, JAVA  
+* Tools: Visual Studio Code, Docker
 
 ## Education
 * University: **SKKU**(Sungkyunkwan University), South Korea  
