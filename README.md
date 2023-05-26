@@ -24,3 +24,6 @@ I work on high levels of code quality and continuous refactoring
 
 ## Contact
 
+## GitHub Stats
+[![jhlee0222's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlee0222&show_icons=true&theme=solarized-light)](https://github.com/jhlee0222)
+[![jhlee0222's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhlee0222&theme=solarized-light)](https://github.com/jhlee0222)
