@@ -8,7 +8,7 @@
 
 
 ## Education
-* **SKKU**,South Korea  
+* **SKKU**, South Korea  
   Software Engineering undergraduate student, 2022-
 
 ## Achivements and Certifications
