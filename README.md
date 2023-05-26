@@ -1,6 +1,6 @@
 🙂 Hi, I am Jonghan Lee 🙂 
 
-This is my GitHub homepage.
+This is my GitHub personal page.
 ***
 
 ## About me
