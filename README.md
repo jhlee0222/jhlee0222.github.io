@@ -1,17 +1,17 @@
-🙂 Hi, I am Jonghan Lee 🙂
+#🙂 Hi, I am Jonghan Lee 🙂
 ***
 
-# About me
+## About me
 ***
 
-# Skills
+## Skills
 ***
 
-# Education
+## Education
 ***
 
-# Achivements and Certifications
+## Achivements and Certifications
 ***
 
-# Contact
+## Contact
 ***
