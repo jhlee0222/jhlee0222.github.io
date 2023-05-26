@@ -1,4 +1,4 @@
-#🙂 Hi, I am Jonghan Lee 🙂
+🙂 Hi, I am Jonghan Lee 🙂
 ***
 
 ## About me
