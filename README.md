@@ -8,7 +8,7 @@
 
 
 ## Education
-* **SKKU**
+* **SKKU**  
   Software Engineering undergraduate student, 2022-
 
 ## Achivements and Certifications
