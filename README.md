@@ -23,7 +23,7 @@ I work on high levels of code quality and continuous refactoring
 While I may not have any specific achievements or certifications to highlight at the moment, I am actively seeking opportunities to expand my skill set and gain practical experience.
 
 ## Contact
-You can contact me at [jhlee22@g.skku.edu](mailto:jhlee22@g.skku.edu)
+You can contact me at [jhlee22@g.skku.edu](jhlee22@g.skku.edu)
 
 ## GitHub Stats
 [![jhlee0222's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlee0222&show_icons=true&theme=solarized-light)](https://github.com/jhlee0222)
