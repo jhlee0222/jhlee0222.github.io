@@ -2,16 +2,16 @@
 ***
 
 ## About me
-***
+
 
 ## Skills
-***
+
 
 ## Education
-***
+
 
 ## Achivements and Certifications
-***
+
 
 ## Contact
-***
+
