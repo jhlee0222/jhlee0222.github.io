@@ -6,10 +6,9 @@ Last updated at 5/26/2023
 ## About me
 Hello, I'm Jonghan Lee, a passionate and driven individual with a keen interest in software engineering.
 
-I'm now the undergraduate student of Sungkyunkwan University.
+I work on high levels of code quality and continuous refactoring. I have excelled in my coursework, consistently achieving outstanding grades in subjects such as algorithms and data structures. I'm now developing a strong foundation in software engineering principles and practices.
 
-I work on high levels of code quality and continuous refactoring  
-
+I am currently studying at the prestigious Sungkyunkwan University for a degree in Software Engineering.
 
 ## Skills
 * Skills: Algorithm
