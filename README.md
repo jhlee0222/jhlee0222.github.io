@@ -1,4 +1,5 @@
-🙂 Hi, I am Jonghan Lee 🙂
+🙂 Hi, I am Jonghan Lee 🙂 
+This is my GitHub homepage.
 ***
 
 ## About me
