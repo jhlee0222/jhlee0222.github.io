@@ -9,7 +9,7 @@ Hello, I'm Jonghan Lee, a passionate and driven individual with a keen interest 
 
 I work on high levels of code quality and continuous refactoring. I have excelled in my coursework, consistently achieving outstanding grades in subjects such as algorithms and data structures. I'm now developing a strong foundation in software engineering principles and practices.
 
-I am currently studying at the prestigious Sungkyunkwan University for a degree in Software Engineering.
+I am currently studying at the prestigious Sungkyunkwan University(2nd year student of College of Software) for a degree in Software Engineering.
 
 ## Skills
 * Skills: Algorithm
@@ -23,7 +23,7 @@ I am currently studying at the prestigious Sungkyunkwan University for a degree 
 
 
 ## Achivements and Certifications
-While I may not have any specific achievements or certifications to highlight at the moment, I am actively seeking opportunities to expand my skill set and gain practical experience.  
+While I may not have any specific achievements or certifications to highlight at the moment, <u>I am actively seeking opportunities to expand my skill set and gain practical experience.</u>  
 
 ## Contact
 You can contact me at [jhlee22@g.skku.edu](mailto:jhlee22@g.skku.edu)  
