@@ -24,6 +24,7 @@ I am currently studying at the prestigious Sungkyunkwan University(2nd year stud
 
 ## Achivements and Certifications
 *While I may not have any specific achievements or certifications to highlight at the moment, I am actively seeking opportunities to expand my skill set and gain practical experience.*  
+JAVA: making a small part of a music game
 
 ## Contact
 You can contact me at [jhlee22@g.skku.edu](mailto:jhlee22@g.skku.edu)  
