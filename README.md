@@ -2,24 +2,25 @@
 
 😊 This is my GitHub personal page 😊
 
-Last updated at 5/27/2023
+Last updated at 10/31/2026
 
 ## About me
 Hello, I'm Jonghan Lee, a passionate and driven individual with a keen interest in software engineering.
 
 I work on high levels of code quality and continuous refactoring. I have excelled in my coursework, consistently achieving outstanding grades in subjects such as algorithms and data structures. I'm now developing a strong foundation in software engineering principles and practices.
 
-I am currently studying at the prestigious Sungkyunkwan University(2nd year student of College of Software) for a degree in Software Engineering.
+I am currently studying at the prestigious Sungkyunkwan University(1nd year master student of College of Software) for a degree in Software Engineering.
 
 ## Skills
-* Skills: Algorithm
+* Skills: Algorithm, Data Structure, AI, ML, NLP
 * Language: C, C++, Python, JAVA  
-* Tools: Visual Studio Code, Docker
+* Tools: Visual Studio Code, Docker, Figma
 
 ## Education
 * University: **SKKU**(Sungkyunkwan University), South Korea  
-  Degree: B.S., Software Engineering, 2022-
-* Courses: Algorithm, Data Structure  
+  Degree: B.S., Software Engineering, 2022-2026
+  Degree: M.S., Software Engineering, 2026-
+* Courses: Algorithm, Data Structure, Machine Learning, Artificial Intelligence, Image Processing, ...
 
 
 ## Achivements and Certifications
